@@ -9,5 +9,5 @@ M.E., Computer Technology, Xidian University, 2024—2027 (expected).\
 B.E., Intelligent Science and Technology, Nanjing University of Posts and Telecommunications, 2019—2023.
 
 #### Research Interests
-High Computing Performance, Parallel Computing, GPU.
+High  Performance Computing, Parallel Computing, GPU.
 
