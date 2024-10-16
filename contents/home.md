@@ -1,16 +1,13 @@
+[![ding-ding2000](https://img.shields.io/badge/dingding2000-github-blue?logo=github)](https://github.com/ding-ding2000)
 
+He is currently pursuing a Master's Degree  in computer science at Guangzhou Research Institute of Xidian University,China.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
+runjieding@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Technology, Xidian University, 2024—2027 (expected).\
+B.E., Intelligent Science and Technology, Nanjing University of Posts and Telecommunications, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+High Computing Performance, Parallel Computing, GPU.
 
